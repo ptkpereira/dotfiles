@@ -53,7 +53,7 @@ set number
 
 set laststatus=2
 set t_Co=256
-"set rtp+=/usr/share/powerline/bindings/vim
+"set rtp+=/usr/share/powerline/bindings/vim-teste
 
 " vim-airline
 let g:airline_theme = 'minimalist'
