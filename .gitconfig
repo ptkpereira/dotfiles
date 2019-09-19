@@ -1,0 +1,17 @@
+##################################
+#
+# :: GIT GLOBAL SETTINGS ::
+#
+# References:
+#   - https://github.com/dougblack/dotfiles/blob/master/.gitconfig
+#   - https://gist.github.com/pksunkara/988716
+#   - https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
+#   - https://nathanhoad.net/how-to-colours-in-git/
+#
+##################################
+
+[user]
+	name = ptkpereira
+	email = patrickpereiradev@gmail.com
+[color]
+	ui = auto
