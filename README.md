@@ -1,7 +1,6 @@
 # Dotfiles
 
 ## Install
----
 
 Clone this repository:
 
@@ -20,4 +19,4 @@ Run install.sh:
 ```
 
 
-Enjoy!
+Enjoy! :smiley:
