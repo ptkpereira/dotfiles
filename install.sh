@@ -1,12 +1,13 @@
 #!/bin/bash
 
-cp {.bashrc,.vimrc,.tmux.conf,.gitconfig} ~/
+cp {.bashrc,.vimrc,.tmux.conf,.gitconfig,.zshrc} ~/
 
 printf "Instaling\n
 -.bashrc,
 -.tmux.conf,
 -.vimrc, 
--.gitconfig\n"
+-.gitconfig,
+-.zshrc\n"
 
 sleep 1
 
